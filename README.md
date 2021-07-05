@@ -7,4 +7,7 @@ although it asks for permission before using the location.. even if permission i
 please use the android and ios files too.. Thy're needed to ask for permission based on what platform is being used
 and the pubspec file for the dependencies
 
+Git Guardian Keeps Complaining about my open api key(open weather api)..
+hopefully it does"nt get blocked
+
 Thank You...
