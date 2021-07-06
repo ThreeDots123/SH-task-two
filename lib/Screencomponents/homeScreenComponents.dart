@@ -48,7 +48,7 @@ Widget topBar(location) {
 
 Widget imageLarge(weatherData) {
   if (weatherData != null) {
-    String label = weatherData["current"]["weather"][0]["main"] == "clouds"
+    String label = weatherData["current"]["weather"][0]["main"] == "Clouds"
         ? "sunshine"
         : "HeavyRain";
     return Container(
